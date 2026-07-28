@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\.Net\\.Net2\\Medical_appointments\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7043D830-0C75-4393-A046-6F9643FD6208}|Core\\Core.csproj|c:\\.net\\.net2\\medical_appointments\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7043D830-0C75-4393-A046-6F9643FD6208}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826CE0D-C1FD-42ED-B8F8-885D36F8571E}|External\\Infrastructure.csproj|c:\\.net\\.net2\\medical_appointments\\external\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7826CE0D-C1FD-42ED-B8F8-885D36F8571E}|External\\Infrastructure.csproj|solutionrelative:external\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826CE0D-C1FD-42ED-B8F8-885D36F8571E}|External\\External.csproj|c:\\.net\\.net2\\medical_appointments\\external\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826CE0D-C1FD-42ED-B8F8-885D36F8571E}|External\\External.csproj|solutionrelative:external\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7043D830-0C75-4393-A046-6F9643FD6208}|Core\\Core.csproj|c:\\.net\\.net2\\medical_appointments\\core\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7043D830-0C75-4393-A046-6F9643FD6208}|Core\\Core.csproj|solutionrelative:core\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538E6B6F-459B-40A2-9DB9-5A196A2814FC}|Persistence\\Persistence.csproj|c:\\.net\\.net2\\medical_appointments\\persistence\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538E6B6F-459B-40A2-9DB9-5A196A2814FC}|Persistence\\Persistence.csproj|solutionrelative:persistence\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFCC0C7-4EDB-468D-A1EB-E5C79444DE33}|Domain\\Domain.csproj|c:\\.net\\.net2\\medical_appointments\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFCC0C7-4EDB-468D-A1EB-E5C79444DE33}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\External\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "External\\Infrastructure.csproj",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\External\\Infrastructure.csproj",
+              "RelativeToolTip": "External\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-28T01:35:57.16Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -22,6 +60,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-28T01:39:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\External\\Extension.cs",
+              "RelativeDocumentMoniker": "External\\Extension.cs",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\External\\Extension.cs",
+              "RelativeToolTip": "External\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T01:28:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\Persistence\\Extension.cs",
+              "RelativeDocumentMoniker": "Persistence\\Extension.cs",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\Persistence\\Extension.cs",
+              "RelativeToolTip": "Persistence\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T01:28:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\Core\\Extension.cs",
+              "RelativeDocumentMoniker": "Core\\Extension.cs",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\Core\\Extension.cs",
+              "RelativeToolTip": "Core\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T01:28:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.Net\\.Net2\\Medical_appointments\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\.Net\\.Net2\\Medical_appointments\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T01:27:13.363Z",
+              "EditorCaption": ""
             }
           ]
         }
